@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="WEB_INF/lib/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="WEB_INF/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WEB_INF/lib/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="WEB_INF/lib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="WEB_INF/lib/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="WEB_INF/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
